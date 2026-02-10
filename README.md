@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi! I'm Isaac <br>I'm a backend-focused developer, currently working mainly with Go (Golang).<br><br>I enjoy building small and medium projects to practice programming logic, CLI tools, and backend concepts. I'm especially interested in understanding how things work under the hood — from data handling to program structure and version control.<br><br>Right now, I'm focused on:<br><br>⁃ Improving my skills in Go<br><br>⁃ Building CLI applications<br><br>⁃ Learning best practices for clean code and project organization<br><br>⁃ Exploring databases and ORMs (like GORM) in future projects<br><br>I believe in learning by doing, refactoring, and improving projects over time. This GitHub is a space where I track my progress and growth as a developer 🚀
 
 
